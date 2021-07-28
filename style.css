@@ -50,13 +50,29 @@ h2{
     font-size: 40px;
 }
 .middel-section{
-    background-image: url(images/);
+    background-image: url(images/7.png);
 }
 .introductin{
     text-align: center;
     margin-top: 100px;
 }
+
 .introductin-p{
     text-align: center;
     font-weight: 600;
+}
+.third-width{
+    width:28%;
+     box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1),
+     0 0  0 2px rgb(255,255,255),
+     0.3em 0.3em 1em rgba(0,0,0,0.3);
+
+    padding: 20px;
+    margin: 0 15px 0px 15px;
+    border-radius: 30px;
+
+}
+.third-width img{
+    width: 80%;
+    border-radius: 30px;
 }
