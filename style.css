@@ -1,0 +1,62 @@
+body{
+    font-family: 'Antic Slab', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Zilla Slab', serif;
+}
+
+section{
+    display: flex;
+}
+h1{
+    font-size: 60px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 30px;
+    margin-right: 40px;
+}
+.image-section{
+    background-image: url(images/first.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+
+    
+
+}
+.half-width img{
+    width: 100%;
+}
+span{
+    color: mediumvioletred;
+}
+p{
+    text-align: justify;
+    margin-bottom: 100px;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    color: mintcream;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+     
+}
+.top-section{
+    margin-bottom: 100px;
+} 
+h2{
+    font-size: 40px;
+}
+.middel-section{
+    background-image: url(images/);
+}
+.introductin{
+    text-align: center;
+    margin-top: 100px;
+}
+.introductin-p{
+    text-align: center;
+    font-weight: 600;
+}
